@@ -1,0 +1,32 @@
+html {
+  font-family: "Noto Serif", serif;
+}
+
+.lime-green {
+  background-color: #70ad55;
+  color: #fff;
+}
+
+.optional {
+  color: #70ad55;
+}
+
+fieldset {
+  border: none;
+}
+
+.dark-green {
+  background-color: #6e8c62;
+}
+
+.btn {
+  border: 3px solid #6e8c62;
+}
+
+hr {
+  border-color: #70ad55;
+}
+
+textarea {
+  height: 10em;
+}
